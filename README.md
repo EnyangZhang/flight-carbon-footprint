@@ -38,15 +38,3 @@ To get started with Green Skies, follow these steps:
 3. The software will automatically calculate your carbon footprint.
 4. Explore personalized environmental recommendations to reduce your carbon emissions.
 5. Utilize data visualization tools to gain insights into your environmental impact.
-
-## Contributing
-
-If you'd like to contribute to Green Skies, please follow our [contributing guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For any inquiries or support, please contact [Your Name] at [Your Email Address].
